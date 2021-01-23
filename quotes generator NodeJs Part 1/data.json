@@ -1,0 +1,52 @@
+{
+   "1":  {
+        "Personality" : "Albert Einstein",
+        "Quote" : "I am thankful for all of those who said NO to me. It's because of them I'm doing it myself",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg"
+    },
+    "2": {
+        "Personality" : "Charlie Chaplin",
+        "Quote" : "You'll find that life is still worthwhile if you just smile.",
+        "image": "https://humoropedia.com/wp-content/uploads/2015/01/Charlie-Chaplin-Quotes-1.jpg"
+    },
+    "3": {
+        "Personality" : "Charles Darwin",
+        "Quote" : "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIiQ72R9TF_jliOnf1X-EiKBvFa-CThr40UOUZN3hVgGW8aDs8"
+    },
+    "4": {
+        "Personality" : "Mark Twain",
+        "Quote" : "The two most important days in your life are the day you are born and the day you find out why.",
+        "image": "https://api.time.com/wp-content/uploads/2017/01/gettyimages-2504374.jpg"
+    },
+    "5": {
+        "Personality" : "Oscar Wilde",
+        "Quote" : "Be yourself. Everyone else is already taken.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Oscar_Wilde_3g07095u-adjust.jpg/1200px-Oscar_Wilde_3g07095u-adjust.jpg"
+    },
+    "6": {
+        "Personality" : "Aristotle",
+        "Quote" : "It is during our darkest moments that we must focus to see the light.",
+        "image": "https://static01.nyt.com/images/2016/05/27/world/27ARISTOTLE/27ARISTOTLE-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+    },
+    "7": {
+        "Personality" : "Swami Vivekananda",
+        "Quote" : "Take up one idea. Make that one idea your life – think of it, dream of it, and live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+        "image": "https://im.rediff.com/news/2012/jan/11vivekananda1.jpg"
+    },
+    "8": {
+        "Personality" : "Ratan Tata",
+        "Quote" : "The people you meet in this life, all won’t be good to you. Some will criticize, some will de-motivate and some will try to pull you down. All you have to do is ignore them and move on. You don’t need to explain them your journey nor let them control your dreams. This is your life, live as you want.",
+        "image": "https://www.tata.com/content/dam/tata/images/about-us/Desktop/heritage/ratan-tata/ratan_tata_banner_desktop_1920x1080.jpg"
+    },
+    "9": {
+        "Personality" : "Gautam Buddha",
+        "Quote" : "I never see what has been done; I only see what remains to be done.",
+        "image": "https://m.media-amazon.com/images/I/51whn0YhHzL.jpg"
+    },
+    "10": {
+        "Personality" : "Chinese Proverb",
+        "Quote" : "He who asks is a fool for five minutes, but he who does not ask remains a fool forever",
+        "image": "https://jamesclear.com/wp-content/uploads/2016/01/sun-tzu-statue.jpg"
+    }
+}
