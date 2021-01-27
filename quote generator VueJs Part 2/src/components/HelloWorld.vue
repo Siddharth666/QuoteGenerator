@@ -10,7 +10,7 @@
   <div class="card, ss" style="">
     <div class="card-body">
      
-      <h1 href="#" class="btn btn-warning disabled">{{this.personality}}</h1>
+      <button onClick="window.location.href=''" class="btn btn-warning">{{this.personality}}</button>
       <p class="card-text">{{ this.users }}</p>
     </div>
     <img class="card-img-bottom" v-bind:src="this.img" alt="Card image" style="width:100%">
